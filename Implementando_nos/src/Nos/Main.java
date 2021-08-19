@@ -18,7 +18,7 @@ public class Main {
         no3.setProximoNo(no4);
         
         No <String> no5 = new No("Conteúdo no5");
-        
+
         no4.setProximoNo(no5);
 
         System.out.println(no1);
